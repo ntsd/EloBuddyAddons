@@ -1,0 +1,12 @@
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\Sona Skill Helper.exe.config
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\Sona Skill Helper.exe
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\Sona Skill Helper.pdb
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\EloBuddy.dll
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\SharpDX.dll
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\obj\Debug\Sona Skill Helper.csprojResolveAssemblyReference.cache
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\obj\Debug\Sona Skill Helper.exe
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\obj\Debug\Sona Skill Helper.pdb
