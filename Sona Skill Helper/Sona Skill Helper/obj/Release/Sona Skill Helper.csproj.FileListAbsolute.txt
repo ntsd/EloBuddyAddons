@@ -9,3 +9,4 @@ C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Sk
 C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\bin\Release\Newtonsoft.Json.dll
 C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\obj\Release\Sona Skill Helper.exe
 C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\obj\Release\Sona Skill Helper.pdb
+C:\Users\Jiravat\Desktop\Works\EloBuddyAddons\MyAddons\Sona Skill Helper\Sona Skill Helper\obj\Release\Sona Skill Helper.csprojResolveAssemblyReference.cache
